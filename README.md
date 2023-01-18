@@ -1,4 +1,10 @@
-# 
+# Introducing jQuery
+
+Textbook: PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide (5th Edition) Written by Larry Ullman
+
+Read Chapter 15 of your textbook, completing each exercise.  
+
+Submission: Please take and submit .png screenshots showing your working code running in a browser, and your source code for 15.4, 15.5, 15.7, and 15.10 (you may need multiple screenshots of each exercise to demonstrate each working); place all files in a .zip file.
 
 
 == We're Using GitHub Under Protest ==
