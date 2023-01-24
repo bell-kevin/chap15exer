@@ -6,6 +6,16 @@ Read Chapter 15 of your textbook, completing each exercise.
 
 Submission: Please take and submit .png screenshots showing your working code running in a browser, and your source code for 15.4, 15.5, 15.7, and 15.10 (you may need multiple screenshots of each exercise to demonstrate each working); place all files in a .zip file
 
+![p](https://github.com/bell-kevin/chap15exer/blob/main/chap15exer/screenshots/15.4D%20with%20input.PNG)
+
+![p](https://github.com/bell-kevin/chap15exer/blob/main/chap15exer/screenshots/15.5.PNG)
+
+![p](https://github.com/bell-kevin/chap15exer/blob/main/chap15exer/screenshots/15.7.PNG)
+
+![p](https://github.com/bell-kevin/chap15exer/blob/main/chap15exer/screenshots/15.10.PNG)
+
+![p](https://github.com/bell-kevin/chap15exer/blob/main/chap15exer/screenshots/15.10%20logged-in.PNG)
+
 
 == We're Using GitHub Under Protest ==
 
